@@ -1,4 +1,4 @@
-# Car-Mediapipe
+## Car-Mediapipe
 
 Introducing our project: a hands-free car control system using hand gestures. With machine learning, we've made it possible to navigate and manage vehicle functions without touching the controls. It's simple, intuitive, and promotes safer driving by keeping your hands where they belong—on the wheel
 
